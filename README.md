@@ -5,3 +5,5 @@ Edited version of the official implementation of LearnedLLA data structure in th
 McCauley, S., Moseley, B., Niaparast, A. and Singh, S., 2023. Online List Labeling with Predictions. arXiv preprint arXiv:2305.10536.
 
 Adding randomization to the PMA algorithm gives a 5% decrease in cost for high n
+
+The research report is a final report containing my thought process during the project, written in a more intuitional way instead of a formal research paper
